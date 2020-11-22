@@ -1,0 +1,1 @@
+![](Especificacao - pratica de pipes.png)
